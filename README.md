@@ -14,11 +14,11 @@ Sometimes we all need some hex logos.
 
 ## Data sources
 
-- Provide links to any data used from external providers and/or submodules and their associated management source (e.g. IISD-ELA, OMOECC).
+- So far, no one has provided hex sticker data.
 
 ## Funding sources
 
-- List your funding sources, grant names, and grant numbers as applicable.
+- There may be a need for a sticker fund...
 
 ## Keywords
 
