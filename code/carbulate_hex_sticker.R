@@ -5,7 +5,7 @@ library(carbulate)
 library(tidyverse)
 library(hexSticker)
 library(showtext)
-font_add_google("Baloo") # https://fonts.google.com
+font_add_google("Baloo 2") # https://fonts.google.com
 
 # make data for the Bjerrum plot
 
@@ -34,7 +34,7 @@ x <- x +
 sticker(x,
         package = "carbulate",
         h_fill = "lightblue", h_color = "orange", h_size = 1.5,
-        p_color = "#000000", p_y = 1.5, p_size = 14,  p_family = "Baloo",
+        p_color = "#000000", p_y = 1.5, p_size = 14,  p_family = "Baloo 2",
         s_width = 1, s_height = 0.8, s_x = 1, s_y = 0.9,
-        url = "github.com/paukes/carbulate", u_size = 5,
+        url = "github.com/biogeochem/carbulate", u_size = 4.5,
         filename = "output/carbulate.png")
